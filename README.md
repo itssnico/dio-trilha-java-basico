@@ -1,2 +1,3 @@
 # dio-trilha-java-basico
-Repo para exercicios 
+## O que é esse repositório❓
+Basicamente um repo onde estão anotações sobre o basico de java
