@@ -4,8 +4,6 @@ public class OperadoresBasicos {
         // Operador de Atribuição: =
         int numero = 5;
         int numeroDois = 2;
-        String nome = "Nicolas";
-
         // Operador Artmetico: + , - , / , * , % , =
         // Utilizado para operações matematicas
         int soma = numero + numeroDois; // soma
